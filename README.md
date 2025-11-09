@@ -80,7 +80,7 @@ To sign in with your IAM Identity Center user, use the sign-in URL that was sent
 • Explore all the available services in AWS platform.
 # Output:
 
-<img width="1037" height="583" alt="Harisha" src="https://github.com/user-attachments/assets/cf06f3bf-ecc6-4bf3-9ed0-ff98eaaa8879" />
+<img width="1037" height="583" alt="Harisha (3)" src="https://github.com/user-attachments/assets/be33b8d4-1401-45ec-89c6-6898d797c67b" />
 
 
 <img width="1918" height="1079" alt="image" src="https://github.com/user-attachments/assets/70986298-9d6f-407d-a172-4ed44e6854a1" />
